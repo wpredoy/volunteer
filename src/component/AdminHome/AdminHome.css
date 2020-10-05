@@ -1,0 +1,11 @@
+.adminDelete {
+    background-color: tomato;
+    color: white;
+    border: none;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.table th{
+    padding: 10px 0;
+    padding-left: 25px;
+}

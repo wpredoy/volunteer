@@ -1,0 +1,11 @@
+.serverStyle {
+    width: 400px;
+    transition: 1s;
+    margin-top: 30px;
+    cursor: pointer;
+    height: 200px;
+}
+.deleteStyle {
+    margin-top: 40px;
+    margin-left: 120px;
+}

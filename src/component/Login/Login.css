@@ -1,0 +1,33 @@
+.loginFormStyle {
+    text-align: center;
+    margin-top: 150px;
+    border-radius: 10px;
+    border: 1px solid lightgray;
+    padding: 100px 0;
+    width: 500px;
+}
+.loginFormStyle h2 {
+    margin-bottom: 40px;
+    font-weight: bold;
+}
+.loginButton {
+    border: none;
+    background-color: Transparent;
+    border: 1px solid gray;
+    padding: 10px 75px;
+    border-radius: 30px;
+}
+.loginButton:focus {
+    outline: none;
+}
+.imageStyle {
+    text-align: center;
+}
+.imageStyle img {
+    width: 250px;
+}
+.iconStyle {
+    font-size: 18px;
+    margin-right: 20px;
+    color: blue;
+}

@@ -1,0 +1,46 @@
+.bgImage {
+    background-image: url(../../image/Mask\ Group.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 450px;
+}
+.nav-link {
+    margin: 8px 10px;
+    font-size: 20px;
+}
+.navbar-brand img {
+    width: 130px;
+}
+.registerStyle {
+    border: none;
+    background-color: #3F90FC;
+    margin: 8px 10px 0 0 ;
+    width: 153px;
+    height: 50px;
+    border-radius: 5px;
+    font-size: 20px;
+    color: white;
+}
+.adminStyle {
+    border: none;
+    background-color: #434141;
+    margin-top: 8px;
+    width: 153px;
+    height: 50px;
+    border-radius: 5px;
+    font-size: 20px;
+    color: white;
+}
+.growByStyle h1{
+    text-align: center;
+    text-transform: capitalize;
+    margin: 100px 0 15px 0;
+    font-size: 45px;
+}
+.formStyle {
+    margin-left: 250px;
+}
+.formStyle input {
+    outline: none;
+    font-size: 20px;
+}

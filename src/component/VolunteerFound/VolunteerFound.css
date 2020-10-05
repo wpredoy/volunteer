@@ -1,0 +1,7 @@
+.cardStyle {
+    width: 250px;
+    transition: 1s;
+    margin-top: 30px;
+    cursor: pointer;
+    height: 400px;
+}
